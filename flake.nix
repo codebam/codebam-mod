@@ -12,6 +12,7 @@
           jdk
           gradle
           jdt-language-server
+          kotlin-language-server
         ];
       };
     }
